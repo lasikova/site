@@ -1,0 +1,112 @@
+.posts {
+    margin-left: 20px;
+    margin-right: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.post {
+    width: 400px;
+    font-size: 100%;
+}
+
+.posts-h {
+    margin-left: 20px;
+    margin-right: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.post-h {
+    width: 400px;
+    font-size: 100%;
+}
+
+header table, header td {
+    border-width: 0px;
+}
+
+header td {
+    padding: 20px;
+    text-align: center;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+a {
+    color: rgb(137, 45, 160);
+    background-image: linear-gradient(to right, gold, floralwhite);
+    border-radius: 15px;
+    padding: 5px;
+    font-size: 22px;
+}
+
+h1 {
+    color: crimson;   
+}
+
+header {
+    background-image: linear-gradient(to right, rgb(23, 255, 54), rgb(0, 247, 255), rgb(255, 238, 0), rgb(218, 70, 255));
+}
+
+body {
+    background-image: linear-gradient(to bottom, rgb(255, 172, 234), rgb(141, 248, 195));
+}
+
+footer {
+  background-image: linear-gradient(to right, rgb(23, 255, 54), rgb(0, 255, 128), rgb(255, 238, 0), rgb(218, 70, 255));   
+}
+
+iframe {
+    width: 360x;
+    height: 200px;
+    border:gold dotted 10px;
+    margin: 50px;
+}
+
+img {
+    width: 220px;
+    height: 200px;
+    border:gold dotted 10px;
+}
+
+.rasp td {
+   border: crimson dashed 5px;
+   font-size: 70%;
+}
+
+.rasp tr:first-child {
+    font-weight: bold;
+}
+
+.rasp td:first-child {
+    font-weight: bold;
+}
+
+ul {
+   list-style: url("https://learn.algoritmika.org/uploads/2021/03/paw-155322_1280%201_0_1614946877.png");   
+}
+
+.posts-f {
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.post-f {
+    width: 200px;
+    font-size: 100%;
+    text-align: center;
+}
+
+span {
+    background-color: rgb(248, 77, 105);
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
